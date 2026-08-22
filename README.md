@@ -249,10 +249,10 @@ R² measures how well the model explains the variance in the target variable.
 * [x] Dataset loaded into Pandas
 * [x] Initial dataset exploration completed
 * [x] Exploratory Data Analysis
+* [x] Data visualization
   
 ### In Progress
 
-* [ ] Data visualization
 * [ ] Data preprocessing
 * [ ] Feature engineering
 * [ ] Train/Test split
